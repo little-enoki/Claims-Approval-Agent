@@ -1,0 +1,11 @@
+[
+  {
+    "patient_id": "P003",
+    "age": 45,
+    "gender": "Female",
+    "diagnosis_codes": ["J11"],
+    "procedure_code": "87070",
+    "preauth": true,
+    "policy_id": "POL001"
+  }
+]
