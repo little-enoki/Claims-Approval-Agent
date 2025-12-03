@@ -23,10 +23,10 @@ The agent replicates how I designed the workflow, prompt, and evaluation logic i
 | File | Description |
 |------|-------------|
 | `insurance_policies.json` | Synthetic coverage rules per policy |
-| `reference_codes.json` | Mapping of procedure & diagnosis codes |
-| `test_records.json` | Sample patient claims to evaluate |
-| `validation_records.json` | Records used for validation scenario |
-| `validation_reference_results.csv` | Human-reviewed expected outcomes |
+| `reference_codes.json` | Mapping of procedure & diagnosis codes (Synthetic) |
+| `test_records.json` | Synthetic patient claims to evaluate |
+| `validation_records.json` | Records used for validation scenario (Synthetic) |
+| `validation_reference_results.csv` | Synthetic human-reviewed expected outcomes |
 
 ---
 
