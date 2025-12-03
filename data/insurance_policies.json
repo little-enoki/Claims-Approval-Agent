@@ -1,0 +1,20 @@
+[
+  {
+    "policy_id": "POL001",
+    "covered_procedure_codes": ["99213", "87070"],
+    "covered_diagnosis_codes": ["J10", "J11"],
+    "age_min": 0,
+    "age_max": 65,
+    "gender": "Any",
+    "requires_preauth": true
+  },
+  {
+    "policy_id": "POL002",
+    "covered_procedure_codes": ["93000"],
+    "covered_diagnosis_codes": ["I10"],
+    "age_min": 18,
+    "age_max": 99,
+    "gender": "Any",
+    "requires_preauth": false
+  }
+]
